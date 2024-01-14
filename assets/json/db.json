@@ -1,0 +1,52 @@
+{
+      "SongMusis":[
+        {
+            "name":"Senbonzakura - Top 15 Bản Violin Hay Nhất Mọi Thời Đại | EDM Violin TikTok Gây Nghiện Hiện Nay 2022",
+            "singer":"Không xác định",
+            "path":"./assets/music/song1.mp3",
+            "images":"./assets/image/dia_nhac.png"
+        },
+        {
+            "name":"TheFatRat  Monody  Top 15 Bản Violin Hay Nhất Mọi Thời Đại  EDM Violin TikTok Gây Nghiện 2023",
+            "singer":"Không sác định",
+            "path":"./assets/music/song2.mp3",
+            "images":"./assets/image/dia_nhac.png"
+        },
+        {
+            "name":"Melody of the night 2021  TC RemixTrôi ke  Nhạc nền Tik Tok hot Trend  DJ gây nghiện",
+            "singer":"TikTok",
+            "path":"./assets/music/song3.mp3",
+            "images":"./assets/image/dia_nhac.png"
+        },
+        {
+            "name":"Quê Tôi Remix  Thùy Chi  Daz  Hot TikTok",
+            "singer":"Thùy Chi",
+            "path":"./assets/music/song4.mp3",
+            "images":"./assets/image/dia_nhac.png"
+        },
+        {
+            "name":"LK Nhạc Trữ Tình Bolero Remix Tiktok Hay Nhất 2023  Gõ Cửa Trái Tim Hỏi Vợ Ngoại Thành H2K Remix",
+            "singer":"Không xác định",
+            "path":"./assets/music/song5.mp3",
+            "images":"./assets/image/dia_nhac.png"
+        },
+        {
+            "name":"Tình Xưa Nghĩa Cũ Remix Tình Đời Khi Trắng Khi Đen Remix Nhạc Trẻ Remix TikTok Hay Nhất 2023",
+            "singer":"Không xác định",
+            "path":"./assets/music/song6.mp3",
+            "images":"./assets/image/dia_nhac.png"
+        },
+        {
+            "name":"Thiếu Mới Là Đủ Remix",
+            "singer":"Không xác định",
+            "path":"./assets/music/song7.mp3",
+            "images":"./assets/image/dia_nhac.png"
+        },
+        {
+            "name":"Em Ơi Anh Phải Làm Sao Remix",
+            "singer":"Không xác định",
+            "path":"./assets/music/song8.mp3",
+            "images":"./assets/image/dia_nhac.png"
+        }
+    ]
+}
